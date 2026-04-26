@@ -4,5 +4,4 @@ Project Plan
 ---
 - [x] Import in unreal 5.6
 - [x] Test of working
-- [ ] Import ak-47
-- [ ] import pistol
+- [ ] Import custom weapon ak-47
